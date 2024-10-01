@@ -1,16 +1,25 @@
-ul{
+h1{color: red; background-color: lightblue; text-align: right;
+
+}
+h2{color:lightgreen; background-color: purple;
+
+}
+p{background-color: white;
+}
+
+body{
+    background-image: url(ek.jpg
+    )
+}
+
+
+.links ul{
+    color: black;
+}
+
+a{
     background-color: black;
-    color: yellow;
-
 }
-
-li{
-    background-color: aqua;
-    color: beige;
-}
-
-ol{
-    background-color: red;
-
-
+a:visited{
+    color: white;
 }
